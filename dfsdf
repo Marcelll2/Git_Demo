@@ -1,0 +1,42 @@
+[33mcommit 6135c96c3f5e7705a3deda8c8288be3c17e4b44e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: bca9955 be1d549
+Author: Marcel_WJL <jialunwumail@gmail.com>
+Date:   Mon Jul 22 23:00:52 2024 +0200
+
+    conflict fixed
+
+[33mcommit bca99552d2154610fb04cab6a30a7f20c7a72082[m
+Author: Marcel_WJL <jialunwumail@gmail.com>
+Date:   Mon Jul 22 22:59:23 2024 +0200
+
+    在master分支添加999999
+
+[33mcommit be1d549ae6e765faae080d339ffbbc57203e5818[m[33m ([m[1;32mfenzhi1[m[33m)[m
+Author: Marcel_WJL <jialunwumail@gmail.com>
+Date:   Mon Jul 22 22:58:29 2024 +0200
+
+    添加888888
+
+[33mcommit 746fb0a1b278915886d3fcd489086eb9d6016bdb[m
+Author: Marcel_WJL <jialunwumail@gmail.com>
+Date:   Mon Jul 22 22:54:37 2024 +0200
+
+    新增777777
+
+[33mcommit 72c1f29763362ae8c05b4cd757d0fd2d5c5c6369[m
+Author: Marcel_WJL <jialunwumail@gmail.com>
+Date:   Mon Jul 22 22:53:33 2024 +0200
+
+    提交Git_Demo_2文件夹
+
+[33mcommit 802e95aaa2d230306f696cbb550a43c4672ea59a[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Marcel_WJL <jialunwumail@gmail.com>
+Date:   Mon Jul 22 22:00:17 2024 +0200
+
+    修改readme.txt 为 111111
+
+[33mcommit ee75bb54c76e20bff3e02d9d58ce6223cada1dd7[m
+Author: Marcel_WJL <jialunwumail@gmail.com>
+Date:   Mon Jul 22 21:57:11 2024 +0200
+
+    提交readme.txt
